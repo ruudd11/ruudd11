@@ -1,6 +1,3 @@
-## Rudi Powner
+# About Me
 
-3rd year CS student at University of West England, Intrestead in data extraction, machine learning, SQL databases and prediction pipelines.
-
-I program mainly in python, java and C#
-And am experienced using HTML, CS, Kotlin
+Hello! My name is Ruud, and I am a passionate developer. I love working on innovative projects and collaborating with others. In my free time, I enjoy learning new technologies and improving my skills. Thank you for visiting my profile!
