@@ -2,7 +2,7 @@
 ![GIF](hELLO%20wORLD%20(3).gif)
 
 # About Me
-3rd year Full-time student currently working on a research project on predicting football matches using machine learning and pipelines using both unsupervised learning (to find important features & patterns) and supervised learning for my pipelines.
+Third year full-time student, currently conducting ML research on football match prediction, designing pipelines that extract meaningful structure from data via unsupervised learning and translate it into accurate outcome forecasts with supervised models.
 
 # What Can I do?
 🔬 Data Acquisition & Engineering
