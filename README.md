@@ -1,9 +1,5 @@
 # About Me
 
-📓 Undegraduate Computer Science student studying at the University of West England, UK 📍 <br />
-💡Currently working on learning more about machine learning pipelines and statistics 🔢 <br />
-✨ Fun fact - I love all kind of sports anaylitics 😂 <br />
+[![Main skiils](https://skillicons.dev/icons?i=py&perline=3)]
 
-##🌐 Socials:
-
-##💻 Tech Stack:
+Connect with me!
