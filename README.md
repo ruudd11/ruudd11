@@ -1,6 +1,8 @@
-## About Me
-Here's a brief introduction to me with an updated GIF!
+# About Me
+![GIF](Your%20paragraph%20text%20(1).gif)
+## Main skills
 
-![My GIF](Your%20paragraph%20text%20(1).gif)
+[![Main skiils](https://skillicons.dev/icons?i=py,mysql,vscode,github,java,js,cs,kotlin,rocket,tensorflow,sklearn,docker&per,line=8)](https://skillicons.dev)
 
-Feel free to connect with me!
+## Connect with me!
+[![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/rudi-powner-166ab522a/)
