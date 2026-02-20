@@ -1,3 +1,5 @@
 # About Me
 
-Hello! My name is Ruud, and I am a passionate developer. I love working on innovative projects and collaborating with others. In my free time, I enjoy learning new technologies and improving my skills. Thank you for visiting my profile!
+📓 Undegraduate Computer Science student studying at the University of West England, UK 📍
+💡Currently working on learning more machine learning pipelines and statistics 🔢
+⚡ Fun fact - I love all kind of sports anaylitics 😂
