@@ -28,7 +28,7 @@ Third year full-time student, currently conducting ML research on football match
 * Design dashboards with clear KPI focus
 * Choose visualizations based on statistical appropriateness
 * Tell data stories for technical & non-technical audiences
-* Build interactive visualizations (web-based)
+* Build interactive visualizations
 
 ## Main skills
 
