@@ -1,8 +1,6 @@
 
-![GIF](hELLO%20wORLD%20(3).gif)
-
 # About Me
-Third year full-time student, currently conducting ML research on football match prediction, designing pipelines that extract meaningful structure from data via unsupervised learning and translate it into accurate outcome forecasts with supervised models.
+Graduate Computer Science student currently learning how to apply learnt skills into bigger more complex systems by rebuilding from scratch.
 
 # What Can I do?
 🔬 Data Acquisition & Engineering
@@ -32,7 +30,7 @@ Third year full-time student, currently conducting ML research on football match
 
 ## Main skills
 
-[![Main skiils](https://skillicons.dev/icons?i=py,mysql,vscode,azure,github,java,js,cs,kotlin,rocket,tensorflow,sklearn,docker&per,line=8)](https://skillicons.dev)
+[![Main skiils](https://skillicons.dev/icons?i=py,mysql,vscode,azure,github,java,js,kotlin,rocket,tensorflow,sklearn,docker&per,line=8)](https://skillicons.dev)
 
 ## Connect with me!
 [<img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn" width="48">](https://www.linkedin.com/in/rudi-powner-166ab522a/)
